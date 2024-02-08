@@ -25,9 +25,8 @@ Streamlit App
 An interactive web application created with Streamlit allows users to upload a leaf image and receive a prediction. The app utilizes the trained model for classification.
 
 
-![app · Streamlit - Google Chrome 08_02_2024 7_24_46 pm](https://github.com/chussboi96/Medicinal-Plant-Leaf-detection-using-computer-vision/assets/103335581/f0ce8bbd-3d93-413c-9c53-583b0141cf77)
 ![app · Streamlit - Google Chrome 08_02_2024 7_23_42 pm](https://github.com/chussboi96/Medicinal-Plant-Leaf-detection-using-computer-vision/assets/103335581/df3f6a14-4b00-40bc-99c2-7bf7aeefb971)
-
+![app · Streamlit - Google Chrome 08_02_2024 7_24_46 pm](https://github.com/chussboi96/Medicinal-Plant-Leaf-detection-using-computer-vision/assets/103335581/f0ce8bbd-3d93-413c-9c53-583b0141cf77)
 
 
 Note:
